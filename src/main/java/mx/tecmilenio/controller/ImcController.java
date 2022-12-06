@@ -138,4 +138,11 @@ public class ImcController {
 		System.out.println("error de jsp");
 
 	}
+	
+	@RequestMapping(value = "hola", method = RequestMethod.GET)
+	public void hola(HttpSession session) {
+		session.removeAttribute("username");
+		System.out.println("Hola estos es una prueba");
+
+	}
 }
