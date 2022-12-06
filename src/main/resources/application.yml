@@ -1,0 +1,7 @@
+debug: trueserver:  port: 8081  servlet:    context-path: /Evidencia_2_full  spring:  mvc:    view:      prefix: /WEB-INF/views/      suffix: .jsp    static-path-pattern: /resources/**      jpa:    hibernate:      ddl-auto: update    properties:      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+ 
+  datasource:    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/sistemaimc
+    username: root
+    password:  
