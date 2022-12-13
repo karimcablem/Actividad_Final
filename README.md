@@ -3,7 +3,7 @@
 # Actividad_Final
 Tabla de Contenidos
 
-[Descripción](/#Descripción)
+[Descripción](../../#Descripción)
 [Problema Identificado](../../wiki/Pagina-Inicial)
 [Solución](../../wiki/Pagina-Inicial)
 [Arquitectura](../../wiki/Pagina-Inicial)
