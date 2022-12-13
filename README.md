@@ -3,13 +3,13 @@
 # Actividad_Final
 Tabla de Contenidos
 
-[Descripción](../../#Descripción)
-[Problema Identificado](../../#Problema Identificado)
-[Solución](../../#Solución)
-[Arquitectura](../../#Arquitectura)
+[Descripción](../../#Descripción)</br>
+[Problema_Identificado](../../#Problema_Identificado)</br>
+[Solución](../../#Solución)</br>
+[Arquitectura](../../#Arquitectura)</br>
 
 ## Descripción
-## Problema identificado
+## Problema_Identificado
 ## Solución
 ## Arquitectura
 
