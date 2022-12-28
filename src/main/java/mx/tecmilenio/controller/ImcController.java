@@ -38,7 +38,7 @@ public class ImcController {
 
 
 		if (altura.equals("")==true) {
-			modelMap.put("error", "Altura invalida");
+			modelMap.put("error", "Altura invalida probar de nuevo");
 			return "success";
 		}else if (peso.equals("")==true) {
 			modelMap.put("error", "Peso invalido");
